@@ -1,0 +1,126 @@
+ul {
+    list-style: none;
+}
+
+
+
+.fromperepel {
+    position: relative;
+    left: 820px;
+    top: -20px;
+    
+}
+
+.general1 {
+    font-size: small;
+    position: relative;
+    left: 100px;
+}
+
+.sosat {
+    position: relative;
+    left: 250px;
+    font-size: 20px;
+}
+.test {
+    border-right: 10px solid red;
+    border-bottom: 0cap;
+}
+
+
+
+.bar {
+    position: relative;
+    right: 10px;
+    bottom: 25px;
+    width: 2000px;
+    height: 30px;
+    border: 1px solid black;
+    overflow: auto;
+}
+
+.polz {
+    border: 1px solid white;
+    width: 300px;
+    height: 730px;
+    overflow-y: auto;
+}
+.text-size {
+    font-size: 20px;
+}
+
+.text-right {
+    position: relative;
+    left: 30px;
+}
+
+.matchaps {
+    position: relative;
+    margin-top: 30px;
+}
+
+.listots {
+    margin-top: 30px;
+}
+
+.listn {
+    list-style: none;
+}
+
+.ssilk {
+    color: black;
+
+}
+
+.rssilk {
+    color: red;
+}
+
+.matchapsots {
+    position: relative;
+    margin-top: 15px;
+}
+
+.gssilk {
+    color: green;
+}
+
+.orssilk {
+    color: orange;
+}
+
+.head {
+    display: block;
+    position: relative;
+    margin-left: 350px;
+    margin-top:30px;
+}
+
+.head2 {
+    display: block;
+    position: relative;
+    margin-left: 40px;
+    margin-top:30px;
+}
+
+.flexx {
+    display: flex;
+}
+
+.headsize {
+    font-size: 25px;
+}
+
+.zag {
+    position: relative;
+    font-size: 50px;
+}
+
+.mainots {
+    position: relative;
+    margin-top: 16px;
+}
+
+.maintextsize {
+    font-size: 20px;
+}
